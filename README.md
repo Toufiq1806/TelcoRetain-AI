@@ -176,7 +176,7 @@ Technical support
 
 play an important role in churn risk.
 
-![SHAP Summary Plot](images/shap.PNG)
+![SHAP Summary Plot](images/shap.png)
 
 🤖 AI-Powered Retention Analysis
 
@@ -243,7 +243,7 @@ Total charges
 Contract
 Internet service
 Technical support
-![CUSTOMER SUMMARY](images/upload-dashboard-1.png)
+![CUSTOMER SUMMARY](images/upload-dashboard-1.PNG)
 
 2. Churn Prediction
 
