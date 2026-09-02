@@ -47,8 +47,7 @@ This creates a complete workflow from **prediction to action**.
 
 
 ## 🔄 Project Workflow
-
-```text
+```
 Customer Information
         ↓
 Data Preprocessing
@@ -73,6 +72,7 @@ AI Retention Analysis
 Risk Factors
 Retention Actions
 Customer Message
+```
 🔍 Key Insights from EDA
 
 Contract length and tenure were the strongest churn-related patterns found during exploratory analysis.
