@@ -286,6 +286,7 @@ Development
 Jupyter Notebook · Git · GitHub
 
 📁 Project Structure
+```
 
 TelcoRetain-AI/
 │
@@ -304,6 +305,7 @@ TelcoRetain-AI/
 |__ telco-customer-churn.csv
 │
 ├── images/contains image's
+```
     
 
 API keys are stored securely using environment variables / deployment secrets and are not included in the repository.
