@@ -45,7 +45,6 @@ When a customer is classified as **Likely to Churn**, the application sends the 
 
 This creates a complete workflow from **prediction to action**.
 
----
 
 ## 🔄 Project Workflow
 
