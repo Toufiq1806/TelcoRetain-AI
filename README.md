@@ -349,21 +349,37 @@ Through this project, I worked with:
 Data cleaning and preprocessing
 
 Exploratory data analysis
+
 Feature engineering
+
 Classification models
+
 Model comparison
+
 Probability prediction
+
 Classification threshold tuning
+
 Precision and recall trade-offs
+
 Cross-validation
+
 ROC-AUC evaluation
+
 SHAP explainability
+
 Streamlit application development
+
 REST/API-based Generative AI integration
+
 Structured JSON responses from an LLM
+
 Conditional AI execution
+
 Error handling for API calls
+
 Turning ML predictions into actionable business recommendations
+
 🚀 Future Improvements
 
 Possible future improvements include:
