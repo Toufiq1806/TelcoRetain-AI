@@ -176,7 +176,7 @@ Technical support
 
 play an important role in churn risk.
 
-![SHAP Summary Plot](images/shap.png)
+![SHAP Summary Plot](images/shap.PNG)
 
 🤖 AI-Powered Retention Analysis
 
@@ -190,7 +190,7 @@ AI Output
 ⚠️ Risk Factors
 
 Identifies the main characteristics contributing to the customer's churn risk.
-![risk factor](images/upload-dashboard-2.png)
+![risk factor](images/upload-dashboard-2.PNG)
 
 💡 Recommended Actions
 
@@ -201,7 +201,7 @@ Suggests practical actions that a retention team could consider.
 
 Generates a short and professional message that can be used as a starting point for customer communication.
 
-![Recommendations and message](images/upload-dashboard-3.png)
+![Recommendations and message](images/upload-dashboard-3.PNG)
 
 🛡️ AI Safety / Grounding
 
