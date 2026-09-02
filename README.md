@@ -347,6 +347,7 @@ Dataset source: Kaggle – Telco Customer Churn
 Through this project, I worked with:
 
 Data cleaning and preprocessing
+
 Exploratory data analysis
 Feature engineering
 Classification models
@@ -368,16 +369,24 @@ Turning ML predictions into actionable business recommendations
 Possible future improvements include:
 
 Customer segmentation
+
 Retention campaign tracking
+
 Automated email generation
+
 A/B testing of retention strategies
+
 Historical customer monitoring
+
 Model retraining pipeline
+
 Cost-sensitive threshold optimization
+
 Dashboard for retention teams
+
 Integration with CRM systems
+
 👨‍💻 Author
 
 Toufiq
 
-B.Tech Computer Science & Engineering
