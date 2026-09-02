@@ -1,8 +1,10 @@
+streamlit
 pandas
 numpy
 scikit-learn
 joblib
-streamlit
 shap
 matplotlib
 seaborn
+google-genai
+python-dotenv
