@@ -57,11 +57,16 @@ Return the answer as JSON with exactly these keys:
         return json.loads(response.text)
 
     except Exception as e:
-         return {
-            "error": str(e)
-        }
+        error_message = str(e)
+    
+        if "503" in error_message or "UNAVAILABLE" in error_message:
+            return {
+                "error": "Gemini is temporarily unavailable. Please try again in a moment."
+            }
 
-    return json.loads(response.text)
+        return {
+            "error": "Unable to generate AI retention analysis."
+        }
 
 st.title("Customer Churn Prediction")
 st.write("Enter customer information below.")
@@ -162,7 +167,7 @@ if st.button("Predict Churn"):
                 result = generate_retention_plan(customer_info, probability)
             if "error" in result:
 
-                st.error("❌ Unable to generate AI retention analysis contact Toufiq.")
+                st.warning(f"⚠️ {result['error']}")
             else:
                 with st.expander("🤖 AI Retention Analysis", expanded=True):
 
