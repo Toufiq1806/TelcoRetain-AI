@@ -286,17 +286,24 @@ Development
 Jupyter Notebook · Git · GitHub
 
 📁 Project Structure
+
 TelcoRetain-AI/
 │
 ├── app.py
+|
 ├── Churn_Analysis_Notebook.ipynb
+|
 ├── intelligence.py
+|
 ├── requirements.txt
+|
 ├── README.md
+|
 |__ churn_model.pkl
+|
 |__ telco-customer-churn.csv
 │
-├── images/
+├── images/contains image's
     
 
 API keys are stored securely using environment variables / deployment secrets and are not included in the repository.
@@ -306,6 +313,7 @@ API keys are stored securely using environment variables / deployment secrets an
 Clone the repository:
 
 git clone https://github.com/Toufiq1806/TelcoRetain-AI.git
+
 cd TelcoRetain-AI
 
 Install the dependencies:
@@ -342,43 +350,6 @@ Churn status
 
 Dataset source: Kaggle – Telco Customer Churn
 
-🎯 What I Learned
-
-Through this project, I worked with:
-
-Data cleaning and preprocessing
-
-Exploratory data analysis
-
-Feature engineering
-
-Classification models
-
-Model comparison
-
-Probability prediction
-
-Classification threshold tuning
-
-Precision and recall trade-offs
-
-Cross-validation
-
-ROC-AUC evaluation
-
-SHAP explainability
-
-Streamlit application development
-
-REST/API-based Generative AI integration
-
-Structured JSON responses from an LLM
-
-Conditional AI execution
-
-Error handling for API calls
-
-Turning ML predictions into actionable business recommendations
 
 🚀 Future Improvements
 
